@@ -24,5 +24,4 @@ So, if your property is **voucherifycouponcode**, then use it as **{{voucherifyc
 5. Enter the app in the internet browser - 127:0:0:1
 
 
-**Demonstration video**
 <a href="https://drive.google.com/open?id=1sMHRpWrnYwSSYiwxxFtj8owdyuv-dCh3">Demonstration video</a>
