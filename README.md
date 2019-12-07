@@ -25,4 +25,4 @@ So, if your property is **voucherifycouponcode**, then use it as **{{voucherifyc
 
 
 **Demonstration video**
-<a href="https://drive.google.com/open?id=1sMHRpWrnYwSSYiwxxFtj8owdyuv-dCh3">
+<a href="https://drive.google.com/open?id=1sMHRpWrnYwSSYiwxxFtj8owdyuv-dCh3">Demonstration video</a>
