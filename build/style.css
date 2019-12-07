@@ -1,0 +1,49 @@
+#form {
+    margin-top: 2vh;
+}
+
+#successIndicator {
+    margin-top: 2vh;
+    display: none;
+}
+
+#successIndicator.show {
+    display: block;
+}
+
+#couponPropertyInput.error {
+    border: 1px solid #ff0000; 
+}
+
+#couponPropertyInputError {
+    display: none;
+    color: #ff0000;
+}
+
+#couponPropertyInputError.show {
+    display: inline-block;
+}
+
+#propertiesList {
+    list-style: none;
+    padding-left: 5px;
+    display: inline-block;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    width: auto;
+    background: #f3f3f3;
+}
+
+.property {
+    color: #000;
+}
+
+.property:hover {
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.container-fluid {
+    margin-top: 5vh;
+}
